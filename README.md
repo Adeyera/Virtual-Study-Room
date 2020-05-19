@@ -1,0 +1,2 @@
+# Virtual-Study-Room
+Using a link or browser extension, students will be able to study in a Virtual Study Room. With the ongoing pandemic and university classes moved online, a group learner like me is finding studying to be less enjoyable than before. This project will allow for multiple internet users to connect to a room, video/voice call, share screens (with user pointers present), include documents, and create exportable study notes. 
